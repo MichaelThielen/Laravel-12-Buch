@@ -1,6 +1,6 @@
 # Laravel 12 für Anfänger – Der pragmatische Einstieg
 
-![Laravel 12 Book Cover](./path/to/your/cover-image.jpg) 
+![Laravel 12 Book Cover](./Laravel-12-book.jpg) 
 *(Hinweis: Hier das Mockup-Bild verlinken, das wir erstellt haben!)*
 
 Willkommen im offiziellen Repository zum Buch **"Laravel 12 für Anfänger"**. 
