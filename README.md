@@ -1,7 +1,6 @@
 # Laravel 12 für Anfänger – Der pragmatische Einstieg
 
 ![Laravel 12 Book Cover](./Laravel-12-book.jpg) 
-*(Hinweis: Hier das Mockup-Bild verlinken, das wir erstellt haben!)*
 
 Willkommen im offiziellen Repository zum Buch **"Laravel 12 für Anfänger"**. 
 Dieses Repository enthält nicht nur Code-Schnipsel, sondern vollständig ausprogrammierte Beispiel-Anwendungen, die dich von "Hello World" zur produktionsreifen App führen.
